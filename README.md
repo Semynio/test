@@ -9,3 +9,4 @@
 - GitHub: [@Мой аккаунт](https://github.com/Semynio)
 
 ![Мое фото](photo.jpeg)
+
